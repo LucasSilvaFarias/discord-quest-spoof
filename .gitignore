@@ -1,0 +1,7 @@
+# Ignorar atalhos e arquivos locais que não devem ir para o repositório
+*.lnk
+desktop.ini
+push_repo.ps1
+cleanup_repo.ps1
+aaa.js
+"Where Winds Meet.url"
